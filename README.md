@@ -1,6 +1,6 @@
 ![LibreSpeed Logo](https://aravpn.my.onlineresults.xyz/www/vps-ara/aravpn.png?raw=true)
 
-# LibreSpeed
+# ARA VPN
 
 No Flash, No Java, No Websocket, No Bullshit.
 
