@@ -7,7 +7,7 @@ No Flash, No Java, No Websocket, No Bullshit.
 This is a very lightweight Speedtest implemented in Javascript, using XMLHttpRequest and Web Workers.
 
 ## Try it
-[Take a Speedtest](https://aravpn.my.onlineresults.xyz)
+[Take a Speedtest](http://aravpn.my.onlineresults.xyz/example-multipleServers-full.html)
 
 ## Compatibility
 All modern browsers are supported: IE11, latest Edge, latest Chrome, latest Firefox, latest Safari.  
