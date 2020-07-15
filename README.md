@@ -1,4 +1,4 @@
-![LibreSpeed Logo](https://aravpn.my.onlineresults.xyz/.logo/logo3.png?raw=true)
+![LibreSpeed Logo](https://aravpn.my.onlineresults.xyz/www/vps-ara/aravpn.png?raw=true)
 
 # LibreSpeed
 
